@@ -25,9 +25,8 @@ A hands-on lab focused on mastering Identity and Access Management (IAM) in AWS.
 
 
 ## Steps
-When I started the AWS IAM lab, the first thing I did was log into AWS and navigate to the IAM dashboard. I wanted to get a feel for the structure and see how everything was organized before diving in.
-![IAM Base](01%20IAM%20Base.png)
-
+When I started the AWS IAM lab, the first thing I did was log in to AWS and navigate to the IAM dashboard. I wanted to get a feel for the structure and see how everything was organized before diving in.
+![IAM Base](images/01 IAM Base.png)
 
 From there, I explored the Users section. I opened each user account, inspecting their permissions and group memberships to understand how access was granted. This helped me see the connection between individual users and the broader organizational access strategy.
 ![IAM Users](04%20IAM%20Users.png)
