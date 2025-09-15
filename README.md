@@ -29,7 +29,7 @@ When I started the AWS IAM lab, the first thing I did was log in to AWS and navi
 ![IAM Base](https://github.com/whozdae/AWS-IAM-/blob/696a42f3411043f3877a2bf23a48103dd1fd0b18/images/01%20IAM%20Base.png)
 
 From there, I explored the Users section. I opened each user account, inspecting their permissions and group memberships to understand how access was granted. This helped me see the connection between individual users and the broader organizational access strategy.
-![IAM Users](04%20IAM%20Users.png)
+![IAM Users](https://github.com/whozdae/AWS-IAM-/blob/44e4fae51992dcd7d811e54b89d12c8308fdd008/images/02%20IAM%20Created%20users.png)
 Next, I moved on to Groups. I looked at each group’s membership and attached policies, noticing how AWS-managed policies differ from custom ones. It was interesting to see how group-level permissions simplify access management and enforce consistency across users.
 ![IAM User Groups](05%20IAM%20User%20Groups.png)  
 ![IAM Dashboard](03%20IAM%20IAM%20Dashboard.png)
